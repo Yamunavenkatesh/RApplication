@@ -1,0 +1,12 @@
+name: travel_expen
+title: travel_expensive
+username: yamunavenkatesh
+account: yamunavenkatesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649065
+bundleId: 9583755
+url: https://yamunavenkatesh.shinyapps.io/travel_expen/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

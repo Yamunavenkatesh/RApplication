@@ -1,0 +1,12 @@
+name: Shinyapp
+title: Shinyapp
+username: yamunavenkatesh
+account: yamunavenkatesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12953091
+bundleId: 9196611
+url: https://yamunavenkatesh.shinyapps.io/Shinyapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

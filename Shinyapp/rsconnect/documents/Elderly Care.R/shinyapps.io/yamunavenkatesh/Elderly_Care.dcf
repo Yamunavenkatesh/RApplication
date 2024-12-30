@@ -1,0 +1,12 @@
+name: Elderly_Care
+title: Elderly_Care
+username: yamunavenkatesh
+account: yamunavenkatesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649077
+bundleId: 9583795
+url: https://yamunavenkatesh.shinyapps.io/Elderly_Care/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
